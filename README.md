@@ -11,7 +11,9 @@ Java is a high-level, class-based, object-oriented, programming language that is
 
 ## Most Popular Links!
 
-- **[Learn OR Review](https://github.com/Multi-Site-App-Dev/JAVA/tree/main/Exercises%3ALabs) JAVA topics**
+- **New to Java? [Learn](https://github.com/Multi-Site-App-Dev/JAVA/tree/main/Learning%20Materials) JAVA Topics**
+  
+- **[Review](https://github.com/Multi-Site-App-Dev/JAVA/tree/main/Exercises%3ALabs) JAVA Topics**
   
 - **[Test](https://github.com/Multi-Site-App-Dev/JAVA/tree/main/Quiz%20Help) Your JAVA Knowlege**
 
