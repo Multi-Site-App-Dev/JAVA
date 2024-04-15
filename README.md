@@ -7,4 +7,4 @@
   
 - **[Test](https://github.com/Multi-Site-App-Dev/JAVA/tree/main/Quiz%20Help) Your JAVA Knowlege**
 
-- **[Practice]() Your Java Skills**
+- **[Practice](https://github.com/Multi-Site-App-Dev/JAVA/blob/main/Practice%20Projects/Project_0.md) Your Java Skills**
