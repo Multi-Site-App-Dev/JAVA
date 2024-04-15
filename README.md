@@ -1,10 +1,8 @@
-# JAVA
-
-## What is Java?
+# What is Java?
 
 
-### Most Popular 
+## Most Popular 
 
 - [Practice]() Your Coding Skills
   
-- [Test] Your JAVA Knowlege 
+- [Test]() Your JAVA Knowlege 
