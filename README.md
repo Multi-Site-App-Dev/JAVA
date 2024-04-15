@@ -5,6 +5,8 @@ Java is a high-level, class-based, object-oriented, programming language that is
  - **class based** - Everything written is inside a class, inheritance based on class
  - **object oriented** - Bundle data and behavior into a single logical unit, the class. (Encapsulation)
 
+   ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*lle0HMeRIJkr933h.png)
+
 
 ## Most Popular Links!
 
