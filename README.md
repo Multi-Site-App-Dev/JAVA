@@ -1,5 +1,10 @@
 # What is Java?
 
+Java is a high-level, class-based, object-oriented, programming language that is designed to have as few implementation dependencies as possible. 
+ - **high level** - No direct memory management, abstracted away from hardware
+ - **class based** - Everything written is inside a class, inheritance based on class
+ - **object oriented** - Bundle data and behavior into a single logical unit, the class. (Encapsulation)
+
 
 ## Most Popular Links!
 
